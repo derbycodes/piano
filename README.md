@@ -54,7 +54,7 @@ These changes can be made directly in the HTML files.
 
 ## Author
 
-Website developed by a freelance developer.
+Website developed by a Ofori Deborah Appiah.
 
 ## License
 
